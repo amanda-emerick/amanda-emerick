@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá devs, eu sou a Amanda! 👋
 
-<!--
-**amanda-emerick/amanda-emerick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonada por tecnologia, desafios e adoro aprender coisas novas. Neste ano dei o primeiro passo na minha jornada de migração de carreira para a área de programação, e estou adorando este desafio. Espero poder contribuir com a comunidade e aprimorar meus conhecimentos para muito em breve virar uma Fullstack Developer! :computer: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:it: Trabalho como tradutora de língua italiana (pt <-> it), atualmente em transição de carreira <br>
+:seedling: Até o momento estou estudando HTML, CSS e Javascript (curso de Desenvolvimento Web da Udemy) <br>
+:hearts: Espero colaborar com projetos em Front-End usando Javascript <br>
+:rocket: Minha stack desejada: ReactJS, Node.js, React Native <br>
+:octocat: Sobre mim: gosto de tecnologias, rock n'roll, viagens e Netflix <br>
+:point_down: Fale comigo: :point_down:<br> 
+:envelope: e-mail: amandaedeoliveira@gmail.com <br>
+:iphone: LinkedIn: https://www.linkedin.com/in/amanda-emerick/
